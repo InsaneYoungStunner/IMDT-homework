@@ -97,7 +97,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 221}
   m_MaxSize: {x: 4000, y: 4021}
   vertical: 0
-  controlID: 97
+  controlID: 20
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -187,10 +187,10 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 750
-  m_MinSize: {x: 707, y: 392}
-  m_MaxSize: {x: 18002, y: 14042}
+  m_MinSize: {x: 709, y: 392}
+  m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 38
+  controlID: 179
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -215,7 +215,7 @@ MonoBehaviour:
   m_MinSize: {x: 231, y: 392}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 39
+  controlID: 113
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -293,8 +293,8 @@ MonoBehaviour:
     y: 0
     width: 202
     height: 750
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 23}
   m_Panes:
   - {fileID: 23}
@@ -389,7 +389,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -617,7 +617,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.42997077, y: -0.31888643, z: 0.16553758, w: 0.82830584}
     speed: 2
-    m_Value: {x: 0.42995858, y: -0.31887737, z: 0.16553289, w: 0.82828236}
+    m_Value: {x: -0.42997077, y: 0.31888643, z: -0.16553758, w: -0.82830584}
   m_Size:
     m_Target: 3.3898995
     speed: 2
@@ -711,20 +711,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Script
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 61
   m_LastFolders:
-  - Assets/Script
+  - Assets
   m_LastFoldersGridSize: 61
-  m_LastProjectPath: /Users/lixiaowen/Documents/Sheep
+  m_LastProjectPath: /Users/lixiaowen/Documents/IMDT-homework/development/1/unity
+    project/Sheep
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 106}
-    m_SelectedIDs: 40ab0000
-    m_LastClickedID: 43840
-    m_ExpandedIDs: 0000000036ab000038ab00003aab00003cab00003eab000040ab000042ab000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 0a370000
+    m_LastClickedID: 14090
+    m_ExpandedIDs: 000000000a3700000c3700000e3700001037000012370000143700001637000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -752,7 +753,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000036ab000038ab00003aab00003cab00003eab000040ab000042ab0000
+    m_ExpandedIDs: 000000000a3700000c3700000e37000010370000123700001437000016370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -779,7 +780,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300009e250000862f0000b4310000c22f0000dc4700007477000012880000ecec0000c4f00000e8f400003c730000204100003245000000000000a2380000a63800005e3b0000163b000004470000203b0000924b000016640000e2600000ec630000d83c0000f03c0000b450000008840000728400000c840000444b0000ec3e0000983d0000e67f0200145800000c420000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -930,9 +931,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 62aa0000
-      m_LastClickedID: 43618
-      m_ExpandedIDs: 8cd6feff14a9000042a900007ea900005eaa000076aa0000f4aa0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: b6f8ffffd2f8ffff74f9ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
